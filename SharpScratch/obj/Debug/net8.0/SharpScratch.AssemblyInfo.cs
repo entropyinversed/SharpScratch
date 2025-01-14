@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SharpScratch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11851b4e7060c70cd52e22a58ece8f63f57b501")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6126afa39f1ba71a88cd02dc0dc1e468c8b2f852")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharpScratch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharpScratch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

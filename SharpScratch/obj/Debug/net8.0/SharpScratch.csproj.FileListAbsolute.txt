@@ -1,0 +1,15 @@
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\bin\Debug\net8.0\SharpScratch.exe
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\bin\Debug\net8.0\SharpScratch.deps.json
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\bin\Debug\net8.0\SharpScratch.runtimeconfig.json
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\bin\Debug\net8.0\SharpScratch.dll
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\bin\Debug\net8.0\SharpScratch.pdb
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.AssemblyInfoInputs.cache
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.AssemblyInfo.cs
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.csproj.CoreCompileInputs.cache
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.sourcelink.json
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.dll
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\refint\SharpScratch.dll
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.pdb
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\SharpScratch.genruntimeconfig.cache
+C:\Users\tyler.mumford\Documents\Projects\Upskill\SharpScratch\SharpScratch\obj\Debug\net8.0\ref\SharpScratch.dll
