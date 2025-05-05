@@ -1,6 +1,0 @@
-# Build directories
-bin/
-obj/
-
-# IDE settings
-.idea/
