@@ -2,10 +2,8 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Are you happy now?");
-	    Console.WriteLine("just a creds test");
-        Console.WriteLine("And a push from linux");
+        Console.WriteLine("Finally setup correctly!");
     }
 }
