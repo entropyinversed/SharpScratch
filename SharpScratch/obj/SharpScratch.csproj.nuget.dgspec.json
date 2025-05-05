@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyler.mumford\\Documents\\Projects\\Upskill\\SharpScratch\\SharpScratch\\SharpScratch.csproj": {}
+    "/home/tyler/Repos/SharpScratch/SharpScratch/SharpScratch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyler.mumford\\Documents\\Projects\\Upskill\\SharpScratch\\SharpScratch\\SharpScratch.csproj": {
+    "/home/tyler/Repos/SharpScratch/SharpScratch/SharpScratch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyler.mumford\\Documents\\Projects\\Upskill\\SharpScratch\\SharpScratch\\SharpScratch.csproj",
+        "projectUniqueName": "/home/tyler/Repos/SharpScratch/SharpScratch/SharpScratch.csproj",
         "projectName": "SharpScratch",
-        "projectPath": "C:\\Users\\tyler.mumford\\Documents\\Projects\\Upskill\\SharpScratch\\SharpScratch\\SharpScratch.csproj",
-        "packagesPath": "C:\\Users\\tyler.mumford\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyler.mumford\\Documents\\Projects\\Upskill\\SharpScratch\\SharpScratch\\obj\\",
+        "projectPath": "/home/tyler/Repos/SharpScratch/SharpScratch/SharpScratch.csproj",
+        "packagesPath": "/home/tyler/.nuget/packages/",
+        "outputPath": "/home/tyler/Repos/SharpScratch/SharpScratch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tyler.mumford\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/tyler/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
